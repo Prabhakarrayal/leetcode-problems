@@ -24,6 +24,7 @@
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -41,12 +42,14 @@
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -59,6 +62,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
