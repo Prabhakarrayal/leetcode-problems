@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -42,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -54,6 +56,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -62,6 +65,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -71,9 +75,18 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
