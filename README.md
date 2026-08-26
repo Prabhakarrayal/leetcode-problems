@@ -23,12 +23,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Segment Tree
 |  |
 | ------- |
