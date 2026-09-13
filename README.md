@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
@@ -125,5 +126,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
