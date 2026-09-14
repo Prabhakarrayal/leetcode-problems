@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
@@ -128,4 +129,8 @@
 | ------- |
 | [0835-image-overlap](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
