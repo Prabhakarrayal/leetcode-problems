@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
@@ -108,11 +109,13 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
