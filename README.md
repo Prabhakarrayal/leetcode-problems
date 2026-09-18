@@ -24,6 +24,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
