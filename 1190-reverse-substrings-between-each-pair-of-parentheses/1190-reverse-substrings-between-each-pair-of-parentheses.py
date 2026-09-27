@@ -1,14 +1,31 @@
 class Solution:
     def reverseParentheses(self, s: str) -> str:
-        stack = [""]
+        n = len(s)
+        pair = [-1] * n
+        stack = []
 
-        for c in s:
+        # Match parentheses.
+        for i, c in enumerate(s):
             if c == '(':
-                stack.append("")
+                stack.append(i)
             elif c == ')':
-                cur = stack.pop()
-                stack[-1] += cur[::-1]
-            else:
-                stack[-1] += c
+                j = stack.pop()
+                pair[i] = j
+                pair[j] = i
 
-        return stack[0]
+        ans = []
+        i = 0
+        step = 1
+
+        while 0 <= i < n:
+            c = s[i]
+
+            if c == '(' or c == ')':
+                i = pair[i]
+                step = -step
+            else:
+                ans.append(c)
+
+            i += step
+
+        return ''.join(ans)
