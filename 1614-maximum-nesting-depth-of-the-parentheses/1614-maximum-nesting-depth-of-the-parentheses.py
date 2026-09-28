@@ -5,8 +5,7 @@ class Solution:
         for c in s:
             if c == '(':
                 depth += 1
-                if depth > ans:
-                    ans = depth
+                ans = max(ans, depth)
             elif c == ')':
                 depth -= 1
 
