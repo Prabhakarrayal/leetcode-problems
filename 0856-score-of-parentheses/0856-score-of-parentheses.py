@@ -1,12 +1,13 @@
 class Solution:
     def scoreOfParentheses(self, s: str) -> int:
-        stack = [0]
+        ans = depth = 0
 
-        for c in s:
+        for i, c in enumerate(s):
             if c == '(':
-                stack.append(0)
+                depth += 1
             else:
-                cur = stack.pop()
-                stack[-1] += 1 if cur == 0 else cur << 1
+                depth -= 1
+                if s[i - 1] == '(':
+                    ans += 1 << depth
 
-        return stack[0]
+        return ans
