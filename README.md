@@ -24,6 +24,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -44,6 +45,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -223,6 +225,7 @@
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prabhakarrayal/leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
